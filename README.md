@@ -23,6 +23,9 @@ Exploring-Stack-Overflow-Data--2019-Survey ipynb and html files - They show the 
 ## Results
 I found out that Bachelors and Master degrees are popular with people in the tech industry and to be employed full-time you should have at least a Bachelor's degree. Most people were slightly satisfied with the jobs for both full-time and part-time jobs but when it came to freelance, they were very satisfied. Also from analysis, I discovered that job satisfaction and career satisfaction positively correlated although it was not as strong as I hoped. Relationships beween Compensation and the other numerical data weren't found and so I didn't go forward with modelling and predicting.
 
+## Medium Article
+https://medium.com/@tamunotonye.harry/looking-to-enter-the-tech-industry-few-things-you-should-know-43f41b23193f?source=friends_link&sk=c2974ab32cf6c2727a113d3753bc9e2e
+
 ## Acknowledgements
 - Python documentations
 - Stack Overflow
